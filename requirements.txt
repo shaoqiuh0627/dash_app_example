@@ -1,0 +1,9 @@
+matplotlib
+pandas
+ta
+requests
+termcolor
+plotly
+dash
+dash_bootstrap_components
+numpy==1.26.4

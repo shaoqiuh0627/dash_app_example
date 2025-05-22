@@ -1,7 +1,6 @@
 matplotlib
 pandas
 requests
-termcolor
 plotly
 dash
 dash_bootstrap_components
